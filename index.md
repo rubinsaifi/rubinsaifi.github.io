@@ -1,5 +1,5 @@
 # Helpful Sheets #
-- ### [Reverse-Engineering Cheat Sheet from @@lennyzeltser(https://twitter.com/lennyzeltser) (PDF)](https://zeltser.com/media/docs/reverse-engineering-malicious-code-tips.pdf) ###
+- ### [Reverse-Engineering Cheat Sheet from @lennyzeltser (PDF)](https://zeltser.com/media/docs/reverse-engineering-malicious-code-tips.pdf) ###
 
 # Repositories #
 - ### [IP Checker against RBL](https://github.com/rubinsaifi/ip_checker) ###
