@@ -1,3 +1,6 @@
+### Currently Reading ###
+- #### [Reverse Engineering for Beginners By "Dennis Yurichev"](https://beginners.re/RE4B-EN.pdf) ####
+
 ### Useful Resources for Malware Traffic ###
 - #### [Malware Traffic Analysis - Brad Duncan](http://www.malware-traffic-analysis.net/) [| @malware_traffic](https://twitter.com/malware_traffic) ####
 - #### [Zerophage Malware](https://zerophagemalware.com/) [| @zerophage1337](https://twitter.com/zerophage1337) ####
