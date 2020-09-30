@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cs0sf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://exposed.host
+  * I am cs0sf (https://keybase.io/cs0sf) on keybase.
+  * I have a public key ASB6JvXSxyyLP582sPD--XK851VIpnREclddgf7pUz1eiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120158d95446cc7400209a080e21f888c2d123340c8c0cabfbce6a778d852a960cd0a",
+      "host": "keybase.io",
+      "kid": "01207a26f5d2c72c8b3f9f36b0f0fef972bce75548a6744472575d81fee9533d5e8b0a",
+      "uid": "0b314a56fafa595d0d209915b870cb19",
+      "username": "cs0sf"
+    },
+    "merkle_root": {
+      "ctime": 1601487201,
+      "hash": "82ae25d13954f1302e5a9632592aa64014a325ad72f03c6a7c5e6504966425237b8a0e4274d5971ff1c15cb33446cb7dd446351d8a3954a1d83a7ff2a6d213f4",
+      "hash_meta": "b6557d8343d63daed6147d50bc5be26fc2ced835a9a756f0c4015109491a7b23",
+      "seqno": 17712797
+    },
+    "service": {
+      "entropy": "dKZj6fPRvRLnu9NfGeJSr32E",
+      "hostname": "exposed.host",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1601487216,
+  "expire_in": 504576000,
+  "prev": "115d41c02c962ce1dee07ccccd85c1b626ea432fe3c3367f44314efb733aa1ea",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeib10scsiz+fNrDw/vlyvOdVSKZ0RHJXXYH+6VM9XosKp3BheWxvYWTESpcCM8QgEV1BwCyWLOHe4HzMzYXBtibqQy/jwzZ/RDFO+3M6oerEIHC7q3J7pRoKGNB2DJdY+yuwQLFf/dfK6fvdW4degWdDAgHCo3NpZ8RA+J2Huf7dn/qVz6ysy94zvlf/fkoedG0pSgFYnOxjmThUhm+3O9APsjjvul5BGXdZNHTYDPxIlITYrT6Vp67dBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOnjibRgG9vzkLTFtYS2XrfvikGwKfPVSBoMRRNJfHEJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cs0sf
+
+==================================================================
