@@ -4,7 +4,7 @@ description: >
   twitter: <a href="https://twitter.com/cs0sf">@cs0sf</a>
 baserl: ""
 url: ""
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
